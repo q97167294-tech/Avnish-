@@ -1,0 +1,6 @@
+{
+  "name": "GSEB 10th Study Organizer",
+  "description": "Full offline Class 10 GSEB study video organizer. Save, arrange, and watch your study videos and write chapter-wise notes by subject.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
